@@ -15,7 +15,7 @@ main {
     opacity: 0;
 }
 
-.currency__radio:checked + .img__radio {
+.currency__radio:checked+.img__radio {
     filter: none;
     border-color: tomato;
 }
